@@ -1,6 +1,6 @@
 AZURE_LOCATION: 'centralus'
 RESOURCE_NAME_PREFIX: 'apimdemo1'
-ENVIRONMENT_TAG: 'sit'
+ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'ase-demo-deployment-bdo'
 VM_USERNAME: 'agent'
 ACCOUNT_NAME: 'github.com/swati24may'
