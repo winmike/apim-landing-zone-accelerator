@@ -1,0 +1,1 @@
+   az ad sp create-for-rbac --name "apimdemo" --role contributor --scopes /subscriptions/5659093e-caca-4e48-8d0a-fafd15cbafc0/resourceGroups/rgAPIMCSBackend --sdk-auth
