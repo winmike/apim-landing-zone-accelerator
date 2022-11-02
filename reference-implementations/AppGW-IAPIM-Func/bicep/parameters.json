@@ -15,7 +15,7 @@
             "value": "ENTERPAT"
         },
         "workloadName" :{ 
-            "value": "demoWL"
+            "value": "apimdemoswati"
         },
         "CICDAgentType": {
             "value": "azuredevops OR github OR none"
