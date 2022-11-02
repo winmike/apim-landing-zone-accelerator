@@ -64,13 +64,13 @@ var serverfarms_appsvcplanAPIMCSBackend_name  = 'plan-be-${workloadName}-${envir
 var serverfarms_appsvcplanAPIMCSBackend_location  = location
 // Azure Application Service Plan sizing
 // - SKU name
-var serverfarms_appsvcplanAPIMCSBackend_skuName  = 'P2v2' // dev - 'B1'
+var serverfarms_appsvcplanAPIMCSBackend_skuName  = 'B1' // dev - 'B1'
 // - SKU tier
-var serverfarms_appsvcplanAPIMCSBackend_skuTier  = 'PremiumV2' // dev - 'Basic'
+var serverfarms_appsvcplanAPIMCSBackend_skuTier  = 'Basic' // dev - 'Basic'
 // - SKU size
-var serverfarms_appsvcplanAPIMCSBackend_skuSize  = 'P2v2' // dev - 'B1'
+var serverfarms_appsvcplanAPIMCSBackend_skuSize  = 'B1' // dev - 'B1'
 // - SKU family
-var serverfarms_appsvcplanAPIMCSBackend_skuFamily  = 'Pv2' // dev - 'B'
+var serverfarms_appsvcplanAPIMCSBackend_skuFamily  = 'B' // dev - 'B'
 // - SKU capacity
 var serverfarms_appsvcplanAPIMCSBackend_skuCapacity  = 1
 
